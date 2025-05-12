@@ -7,8 +7,8 @@ my myself .
 But for now that's all i built with the help 
 
 ## A shopping app that has the simple UI design .
-<h3> All the data is dummy data.</h3>
-<h5>
+<h2> All the data is dummy data.</h2>
+<h3>
 I learnt how the things in futter framework , <br>
 I have added some things that i have listed below -->
 1. Simple UI that has a bar in which search button is added which is not functional now .<br>
@@ -17,7 +17,7 @@ I have added some things that i have listed below -->
 4. Click on app -> A product details page that has a name and image of the product and a bottom bar that allow you <br>
 to select a size and an add to cart option .<br>
 5. Added items can be seen in the cart section which is present on the home app in the downside .<br>
-</h5>
+</h3>
 
 ## Getting Started
 
